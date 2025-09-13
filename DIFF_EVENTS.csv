@@ -1,0 +1,32 @@
+change,device_norm,ref,hit_keyword,bug_type,date,time
+ADDED,unknown,part1.txt,Backboardd,,,
+ADDED,unknown,part1.txt,JetsamEvent,,,
+ADDED,unknown,part1.txt,Triald,,2025-07-23,09:55:18+07:00
+ADDED,unknown,part1.txt,aad,,,
+ADDED,unknown,part1.txt,aad,,2025-07-23,09:55:18+07:00
+ADDED,unknown,part1.txt,duetexpertd,,2025-07-23,09:55:18+07:00
+ADDED,unknown,part2.txt,JetsamEvent,,2025-07-23,01:26:59+07:00
+ADDED,unknown,part2.txt,aad,,2025-07-23,01:26:59+07:00
+ADDED,unknown,part2.txt,duetexpertd,,2025-07-23,01:26:59+07:00
+ADDED,unknown,part3.txt,Defender,,,
+ADDED,unknown,part3.txt,aad,,,
+ADDED,unknown,part3.txt,suggestions,,,
+REMOVED,MyViettel-Friend,My-Viettel-App-MDM.pdf,aAd,,,
+REMOVED,MyViettel-Friend,My-Viettel-App-MDM.pdf,aaD,,,
+REMOVED,MyViettel-Friend,My-Viettel-App-MDM.pdf,aad,,,
+REMOVED,MyViettel-Friend,steChat.data,META,,,
+REMOVED,MyViettel-Friend,viettel.der,VIETTEL,,,
+REMOVED,MyViettel-Friend,viettel.der,viettel,,,
+REMOVED,MyViettel-Friend,viettel.der,viettel.vn,,,
+REMOVED,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",AAD,,,
+REMOVED,MyViettel-Friend,{.84368154682.-[]}.pdf,AAD,,,
+REMOVED,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",AAD,,,
+REMOVED,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",okx,,,
+REMOVED,MyViettel-Tajima,____________.csv,viettel,,2025-08-26,19:23:27
+REMOVED,MyViettel-Tajima,_____________csv__preview_.csv,viettel,,2025-08-26,19:23:27
+REMOVED,MyViettel-Tajima,viettel.der,VIETTEL,,,
+REMOVED,MyViettel-Tajima,viettel.der,viettel,,,
+REMOVED,MyViettel-Tajima,viettel.der,viettel.vn,,,
+REMOVED,MyViettel-Tajima,viettel.zip,viettel,,,
+REMOVED,MyViettel-Tajima,viettel_bundle_analysis_report.txt,Viettel,,,
+REMOVED,MyViettel-Tajima,viettel_bundle_analysis_report.txt,viettel,,,

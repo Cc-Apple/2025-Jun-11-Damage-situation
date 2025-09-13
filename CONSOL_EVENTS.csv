@@ -1,0 +1,13 @@
+date,time,device_norm,bug_type,hit_keyword,ref,segment,flame_flag,confidence,__dt
+,,unknown,,JetsamEvent,part1.txt,mid,No,raw-seg,
+,,unknown,,Backboardd,part1.txt,mid,No,raw-seg,
+,,unknown,,aad,part1.txt,mid,No,raw-seg,
+2025-07-23,09:55:18+07:00,unknown,,Triald,part1.txt,tail,No,raw-seg,2025-07-23 09:55:18
+2025-07-23,09:55:18+07:00,unknown,,duetexpertd,part1.txt,tail,No,raw-seg,2025-07-23 09:55:18
+2025-07-23,09:55:18+07:00,unknown,,aad,part1.txt,tail,No,raw-seg,2025-07-23 09:55:18
+2025-07-23,01:26:59+07:00,unknown,,JetsamEvent,part2.txt,head,No,raw-seg,2025-07-23 01:26:59
+2025-07-23,01:26:59+07:00,unknown,,duetexpertd,part2.txt,head,No,raw-seg,2025-07-23 01:26:59
+2025-07-23,01:26:59+07:00,unknown,,aad,part2.txt,head,No,raw-seg,2025-07-23 01:26:59
+,,unknown,,suggestions,part3.txt,mid,Yes,raw-seg,
+,,unknown,,Defender,part3.txt,mid,Yes,raw-seg,
+,,unknown,,aad,part3.txt,tail,No,raw-seg,

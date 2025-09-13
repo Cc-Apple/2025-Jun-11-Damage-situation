@@ -1,0 +1,13 @@
+,device_norm,ref,hit_keyword,bug_type,date,time
+0,unknown,part1.txt,Backboardd,,,
+1,unknown,part1.txt,JetsamEvent,,,
+2,unknown,part1.txt,Triald,,2025-07-23,09:55:18+07:00
+3,unknown,part1.txt,aad,,,
+4,unknown,part1.txt,aad,,2025-07-23,09:55:18+07:00
+5,unknown,part1.txt,duetexpertd,,2025-07-23,09:55:18+07:00
+6,unknown,part2.txt,JetsamEvent,,2025-07-23,01:26:59+07:00
+7,unknown,part2.txt,aad,,2025-07-23,01:26:59+07:00
+8,unknown,part2.txt,duetexpertd,,2025-07-23,01:26:59+07:00
+9,unknown,part3.txt,Defender,,,
+10,unknown,part3.txt,aad,,,
+11,unknown,part3.txt,suggestions,,,

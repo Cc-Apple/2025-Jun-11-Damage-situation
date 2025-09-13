@@ -1,0 +1,11 @@
+,device,token,count
+0,MyViettel-Friend,Viettel,5
+1,MyViettel-Friend,viettel\.vn,3
+2,MyViettel-Tajima,Viettel,14
+3,MyViettel-Tajima,viettel\.vn,3
+4,iP11Pro,"bug[_ ]?type[\"":\s]*([0-9]{1,4})",4
+5,iP12mini-1,"bug[_ ]?type[\"":\s]*([0-9]{1,4})",3
+7,iP15P-Ghost,BiomePubSub,15
+9,iP15P-Ghost,duetexpertd,12
+8,iP15P-Ghost,CoreDuet,4
+6,iP15P-Ghost,AppPredictionInternal,3

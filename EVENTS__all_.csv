@@ -1,0 +1,334 @@
+timestamp_local,device,file,category,keyword,bug_type,context,segment
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,_____________csv__preview_.csv,VENDORS,viettel,,"File Name,SHA-256,Created Time,Modified Time
+viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776",head
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,_____________csv__preview_.csv,VENDORS,viettel,,"viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776
+history_search.txt,405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348,2025-08-26T19:23:28.068096,2025-08-26T19:23:28.068096",head
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,_____________csv__preview_.csv,VENDORS,viettel,,"File Name,SHA-256,Created Time,Modified Time
+viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776",mid
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,_____________csv__preview_.csv,VENDORS,viettel,,"viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776
+history_search.txt,405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348,2025-08-26T19:23:28.068096,2025-08-26T19:23:28.068096",mid
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,_____________csv__preview_.csv,VENDORS,viettel,,"File Name,SHA-256,Created Time,Modified Time
+viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776",tail
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,_____________csv__preview_.csv,VENDORS,viettel,,"viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776
+history_search.txt,405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348,2025-08-26T19:23:28.068096,2025-08-26T19:23:28.068096",tail
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,Viettel,,"Viettel Bundle Analysis Report
+================================",head
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,viettel,,"- history_search.txt: 405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348
+- viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439
+- viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20",head
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,viettel,,"- viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439
+- viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20
+",head
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,Viettel,,"Viettel Bundle Analysis Report
+================================",mid
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,viettel,,"- history_search.txt: 405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348
+- viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439
+- viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20",mid
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,viettel,,"- viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439
+- viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20
+",mid
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,Viettel,,"Viettel Bundle Analysis Report
+================================",tail
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,viettel,,"- history_search.txt: 405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348
+- viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439
+- viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20",tail
+,MyViettel-Tajima,viettel_bundle_analysis_report.txt,VENDORS,viettel,,"- viettel.der: 67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439
+- viettel.zip: 0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20
+",tail
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,____________.csv,VENDORS,viettel,,"File Name,SHA-256,Created Time,Modified Time
+viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776",head
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,____________.csv,VENDORS,viettel,,"viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776
+history_search.txt,405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348,2025-08-26T19:23:28.068096,2025-08-26T19:23:28.068096",head
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,____________.csv,VENDORS,viettel,,"File Name,SHA-256,Created Time,Modified Time
+viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776",mid
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,____________.csv,VENDORS,viettel,,"viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776
+history_search.txt,405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348,2025-08-26T19:23:28.068096,2025-08-26T19:23:28.068096",mid
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,____________.csv,VENDORS,viettel,,"File Name,SHA-256,Created Time,Modified Time
+viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776",tail
+2025-08-26T19:23:27+07:00,MyViettel-Tajima,____________.csv,VENDORS,viettel,,"viettel.der,67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439,2025-08-26T19:23:27.819263,2025-08-26T19:23:27.819263
+viettel.zip,0603a0a98d9cbf25611b0f036a815852b2fbe69a0c1bae083e1e9ba596fafb20,2025-08-26T19:23:27.817776,2025-08-26T19:23:27.817776
+history_search.txt,405c506a969c85ab80d7c44ff62240fa819b33333c26ad77f23e1af758965348,2025-08-26T19:23:28.068096,2025-08-26T19:23:28.068096",tail
+,MyViettel-Tajima,viettel.der,VENDORS,VIETTEL,,"UHanoi1>0<U
+5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U
+",head
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"
+*.viettel.vn0""0
+	*H",head
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"
+*.viettel.vn0""0
+	*H",head
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"0
+*.viettel.vn
+viettel.vn0",head
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"0
+*.viettel.vn
+viettel.vn0",head
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"*.viettel.vn
+viettel.vn0
+U",head
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"*.viettel.vn
+viettel.vn0
+U",head
+,MyViettel-Tajima,viettel.der,VENDORS,VIETTEL,,"UHanoi1>0<U
+5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U
+",mid
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"
+*.viettel.vn0""0
+	*H",mid
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"
+*.viettel.vn0""0
+	*H",mid
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"0
+*.viettel.vn
+viettel.vn0",mid
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"0
+*.viettel.vn
+viettel.vn0",mid
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"*.viettel.vn
+viettel.vn0
+U",mid
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"*.viettel.vn
+viettel.vn0
+U",mid
+,MyViettel-Tajima,viettel.der,VENDORS,VIETTEL,,"UHanoi1>0<U
+5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U
+",tail
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"
+*.viettel.vn0""0
+	*H",tail
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"
+*.viettel.vn0""0
+	*H",tail
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"0
+*.viettel.vn
+viettel.vn0",tail
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"0
+*.viettel.vn
+viettel.vn0",tail
+,MyViettel-Tajima,viettel.der,APP_FIN_SNS,viettel.vn,,"*.viettel.vn
+viettel.vn0
+U",tail
+,MyViettel-Tajima,viettel.der,VENDORS,viettel,,"*.viettel.vn
+viettel.vn0
+U",tail
+,MyViettel-Tajima,viettel.zip,VENDORS,viettel,,"[            
+   viettel.derux
+     UT",head
+,MyViettel-Tajima,viettel.zip,VENDORS,viettel,,"[H  r  
+              viettel.derux
+     UT VhPK      Q       ",head
+,MyViettel-Tajima,viettel.zip,VENDORS,viettel,,"[            
+   viettel.derux
+     UT",mid
+,MyViettel-Tajima,viettel.zip,VENDORS,viettel,,"[H  r  
+              viettel.derux
+     UT VhPK      Q       ",mid
+,MyViettel-Tajima,viettel.zip,VENDORS,viettel,,"[            
+   viettel.derux
+     UT",tail
+,MyViettel-Tajima,viettel.zip,VENDORS,viettel,,"[H  r  
+              viettel.derux
+     UT VhPK      Q       ",tail
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /DescendantFonts [15 0 R]
+/BaseFont /AAAAAD+.HiraKakuInterface-W8 >>
+endobj",head
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"15 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /AAAAAD+.HiraKakuInterface-W8
+/CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 7 >> /W",head
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.HiraKakuInterface-W8 /Flags 4
+/FontBBox [-272 -513 1336 1095] /ItalicAngle 0 /Ascent 823 /Descent -112 /CapHeight",head
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /DescendantFonts [15 0 R]
+/BaseFont /AAAAAD+.HiraKakuInterface-W8 >>
+endobj",mid
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"15 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /AAAAAD+.HiraKakuInterface-W8
+/CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 7 >> /W",mid
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.HiraKakuInterface-W8 /Flags 4
+/FontBBox [-272 -513 1336 1095] /ItalicAngle 0 /Ascent 823 /Descent -112 /CapHeight",mid
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /DescendantFonts [15 0 R]
+/BaseFont /AAAAAD+.HiraKakuInterface-W8 >>
+endobj",tail
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"15 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /AAAAAD+.HiraKakuInterface-W8
+/CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 7 >> /W",tail
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.HiraKakuInterface-W8 /Flags 4
+/FontBBox [-272 -513 1336 1095] /ItalicAngle 0 /Ascent 823 /Descent -112 /CapHeight",tail
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",APP_FIN_SNS,okx,,"4	Ź&a4ޠN=JEIv1Tٺewnp->=J1b9+4"".~(Gy.
+_#OyE""s٢okxd7ng:I{Qv?I%`Ω;	J{}+Mzk7/%x2QҮ+$1MQܵ) ) dL
+",head
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",APP_FIN_SNS,okx,,"4	Ź&a4ޠN=JEIv1Tٺewnp->=J1b9+4"".~(Gy.
+_#OyE""s٢okxd7ng:I{Qv?I%`Ω;	J{}+Mzk7/%x2QҮ+$1MQܵ) ) dL
+",mid
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 78 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar",mid
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"78 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",mid
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",APP_FIN_SNS,okx,,"4	Ź&a4ޠN=JEIv1Tٺewnp->=J1b9+4"".~(Gy.
+_#OyE""s٢okxd7ng:I{Qv?I%`Ω;	J{}+Mzk7/%x2QҮ+$1MQܵ) ) dL
+",tail
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 78 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar",tail
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"78 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",tail
+,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 17 0 R /Encoding /MacRomanEncoding /FirstChar 34 /LastChar",head
+,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",head
+,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 17 0 R /Encoding /MacRomanEncoding /FirstChar 34 /LastChar",mid
+,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",mid
+,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 17 0 R /Encoding /MacRomanEncoding /FirstChar 34 /LastChar",tail
+,MyViettel-Friend,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",tail
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /DescendantFonts [15 0 R]
+/BaseFont /AAAAAD+.HiraKakuInterface-W8 >>
+endobj",head
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"15 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /AAAAAD+.HiraKakuInterface-W8
+/CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 7 >> /W",head
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.HiraKakuInterface-W8 /Flags 4
+/FontBBox [-272 -513 1336 1095] /ItalicAngle 0 /Ascent 823 /Descent -112 /CapHeight",head
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /DescendantFonts [15 0 R]
+/BaseFont /AAAAAD+.HiraKakuInterface-W8 >>
+endobj",mid
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"15 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /AAAAAD+.HiraKakuInterface-W8
+/CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 7 >> /W",mid
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.HiraKakuInterface-W8 /Flags 4
+/FontBBox [-272 -513 1336 1095] /ItalicAngle 0 /Ascent 823 /Descent -112 /CapHeight",mid
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /DescendantFonts [15 0 R]
+/BaseFont /AAAAAD+.HiraKakuInterface-W8 >>
+endobj",tail
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"15 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /AAAAAD+.HiraKakuInterface-W8
+/CIDSystemInfo << /Registry (Adobe) /Ordering (Japan1) /Supplement 7 >> /W",tail
+,MyViettel-Friend,{.84368154682.-[]}.pdf,FLAME_AUX,AAD,,"17 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.HiraKakuInterface-W8 /Flags 4
+/FontBBox [-272 -513 1336 1095] /ItalicAngle 0 /Ascent 823 /Descent -112 /CapHeight",tail
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",APP_FIN_SNS,okx,,"4	Ź&a4ޠN=JEIv1Tٺewnp->=J1b9+4"".~(Gy.
+_#OyE""s٢okxd7ng:I{Qv?I%`Ω;	J{}+Mzk7/%x2QҮ+$1MQܵ) ) dL
+",head
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",APP_FIN_SNS,okx,,"4	Ź&a4ޠN=JEIv1Tٺewnp->=J1b9+4"".~(Gy.
+_#OyE""s٢okxd7ng:I{Qv?I%`Ω;	J{}+Mzk7/%x2QҮ+$1MQܵ) ) dL
+",mid
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 78 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar",mid
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"78 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",mid
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",APP_FIN_SNS,okx,,"4	Ź&a4ޠN=JEIv1Tٺewnp->=J1b9+4"".~(Gy.
+_#OyE""s٢okxd7ng:I{Qv?I%`Ω;	J{}+Mzk7/%x2QҮ+$1MQܵ) ) dL
+",tail
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"8 0 obj
+<< /Type /Font /Subtype /TrueType /BaseFont /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/FontDescriptor 78 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar",tail
+,MyViettel-Friend,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",FLAME_AUX,AAD,,"78 0 obj
+<< /Type /FontDescriptor /FontName /AAAAAD+.SFUI-Regular_wdth_opsz110000_GRAD_wght3E80000
+/Flags 32 /FontBBox [-402 -275 2466 957] /ItalicAngle 0 /Ascent 952 /Descent",tail
+,MyViettel-Friend,My-Viettel-App-MDM.pdf,FLAME_AUX,aAd,,"[8K}A.VO
+b܀MM4þɲCk	վ_=J&h{M/Imڤi6M--m	m)RhRK"" (*"" vQTexQaAd
+?n踼2/B{yϹ7I6]M=Ϲs",mid
+,MyViettel-Friend,My-Viettel-App-MDM.pdf,FLAME_AUX,aad,,"IC$=#jd@6wHI
+HBK""aad+bRg9M+K=5UɵŋLrO
+Y*BnO ~ecS^VXH\WVQRS#66dMp]o",mid
+,MyViettel-Friend,My-Viettel-App-MDM.pdf,FLAME_AUX,aaD,,"RH$Di-^>ixE1O	4lʸy<PH @IJ	tCP@c7!ߴޱ~b쭗+3bn_'Er jckңDȟV&+>68+$PvՌk.ۿopa4#By&=ut Or)S
+\yLBkaaDH}'w'7{ՙ]k==]`OOM|
+hQs(Ψ<KStḐK&pҫ.Ϯ*c(",mid
+,MyViettel-Friend,steChat.data,FLAME_AUX,META,,"8
+&                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ",head
+,MyViettel-Friend,steChat.data,FLAME_AUX,META,,"8
+&                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ",mid
+,MyViettel-Friend,steChat.data,FLAME_AUX,META,,"8
+&                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ",tail
+,MyViettel-Friend,viettel.der,VENDORS,VIETTEL,,"UHanoi1>0<U
+5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U
+",head
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"
+*.viettel.vn0""0
+	*H",head
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"
+*.viettel.vn0""0
+	*H",head
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"0
+*.viettel.vn
+viettel.vn0",head
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"0
+*.viettel.vn
+viettel.vn0",head
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"*.viettel.vn
+viettel.vn0
+U",head
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"*.viettel.vn
+viettel.vn0
+U",head
+,MyViettel-Friend,viettel.der,VENDORS,VIETTEL,,"UHanoi1>0<U
+5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U
+",mid
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"
+*.viettel.vn0""0
+	*H",mid
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"
+*.viettel.vn0""0
+	*H",mid
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"0
+*.viettel.vn
+viettel.vn0",mid
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"0
+*.viettel.vn
+viettel.vn0",mid
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"*.viettel.vn
+viettel.vn0
+U",mid
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"*.viettel.vn
+viettel.vn0
+U",mid
+,MyViettel-Friend,viettel.der,VENDORS,VIETTEL,,"UHanoi1>0<U
+5VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP10U
+",tail
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"
+*.viettel.vn0""0
+	*H",tail
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"
+*.viettel.vn0""0
+	*H",tail
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"0
+*.viettel.vn
+viettel.vn0",tail
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"0
+*.viettel.vn
+viettel.vn0",tail
+,MyViettel-Friend,viettel.der,APP_FIN_SNS,viettel.vn,,"*.viettel.vn
+viettel.vn0
+U",tail
+,MyViettel-Friend,viettel.der,VENDORS,viettel,,"*.viettel.vn
+viettel.vn0
+U",tail
