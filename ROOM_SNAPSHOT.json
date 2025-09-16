@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "case_id": "KABUKI-INV",
+    "maintainer": "Tajima",
+    "reviewer": "GPT-5",
+    "session_scope_date": "2025-06-11",
+    "timezone": "UTC+7",
+    "created_at": "2025-09-16T00:57:16.977334+00:00"
+  },
+  "facts": [
+    "No MDM/profile artifacts detected.",
+    "Apple internal components observed: duetexpertd, triald, JetsamEvent, Backboardd, Suggestions.",
+    "Bug types observed: 202, 288, 309.",
+    "Microsoft-related strings (AAD, Defender) present.",
+    "No strong cross-device time correlations found."
+  ],
+  "hypotheses": [
+    "CoreDuet/UI over-activity may indicate heightened behavioral collection; not proof of compromise.",
+    "Potential state-level misuse of Microsoft infrastructure is suggestive, not conclusive.",
+    "Kabuki (Pegasus-evolved) may coordinate multi-device observation; insufficient evidence for confirmation."
+  ]
+}
